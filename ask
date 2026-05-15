@@ -3,7 +3,7 @@
 # Usage: accepts a prompt or regular input
 # Dependencies: curl, jq
 
-set -euo pipefail
+set -eo pipefail
 
 
 # look for required environment variables
